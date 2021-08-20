@@ -6,7 +6,6 @@ namespace practicalapp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("meep meep");
             Console.WriteLine("Hello World!");
             Console.WriteLine("Practical App");
             //meep
